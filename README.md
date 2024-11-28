@@ -1,4 +1,6 @@
 # Cookies shop
 
-https://louikka.github.io/cookies-shop/  
-Originally was constructed on Angular (but here just vanilla JS + SCSS)
+https://louikka.github.io/cookies-shop/
+
+There is no mobile version of this site  
+Originally was constructed on Angular
