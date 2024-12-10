@@ -8,4 +8,4 @@ Originally was constructed on Angular
 <https://louikka.github.io/cookies-shop/>
 
 
-Designed by itlogia (<https://itlogia.ru/>)
+Designed by itlogia
